@@ -15,6 +15,7 @@ Designed by [RockeatSeat](https://www.rocketseat.com.br/). An application of a s
 * [SQLite](https://www.sqlite.org/index.html)
 * [Radix UI](https://www.radix-ui.com/)
 
+# Subdivisions of the project
  - [X] Back-end
  - [X] Web
  - [ ] Mobile
