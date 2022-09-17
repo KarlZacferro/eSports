@@ -22,7 +22,7 @@ Designed by [RockeatSeat](https://www.rocketseat.com.br/). An application of a s
  
 ### Screens Web.
 
-<img src="https://github.com/KarlZacferro/eSports/issues/1#issue-1376850651" width="0px" />
+"https://github.com/KarlZacferro/eSports/issues/1#issue-1376850651"
 
 ### Screens Mobile.
 <div align="center"
