@@ -21,9 +21,9 @@ Designed by [RockeatSeat](https://www.rocketseat.com.br/). An application of a s
  - [ ] Mobile
  
 ### Screens Web.
-<div align="center"
+
 <img src="https://github.com/KarlZacferro/eSports/issues/1#issue-1376850651" width="0px" />
-/div>
+
 ### Screens Mobile.
 <div align="center"
 <img src="https://github.com/KarlZacferro/eSports/issues/2#issue-1376851470" width="0px" />
